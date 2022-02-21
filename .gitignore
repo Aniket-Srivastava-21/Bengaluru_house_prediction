@@ -1,0 +1,4 @@
+/server/__pycache__
+/model/.ipynb_checkpoints
+/model/final_model.pickle
+/server/assets/final_model.pickle
